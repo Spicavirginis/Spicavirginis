@@ -32,5 +32,5 @@ Btw, before running this script, make sure you have edited [this section](https:
 ```bash
 > npm start
 ```
-
+Please Remember, you must use 2 devices to verify the QR code, then go to WhatsApp and press the menu in the top right corner then select WhatsApp Web to verify the QR code!
 If you are using Termux, you can follow the steps other ways to use the bot, you can follow the steps using the Selfbot line If you have ever used it
