@@ -19,3 +19,17 @@
 ```bash
 > git clone https://github.com/Spicavirginis/Spicavirginis
 ```
+## Install the dependencies:
+
+```bash
+> npm install gify-cli -g
+> npm i
+```
+
+### Usage
+Btw, before running this script, make sure you have edited [this section](https://github.com/Spicavirginis/Spicavirginis/blob/main/msgHndlr.js#L67) with your WhatsApp number, Not a bot number, then
+```bash
+> npm start
+```
+
+If you are using Termux, you can follow the steps other ways to use the bot, you can follow the steps using the Selfbot line If you have ever used it
